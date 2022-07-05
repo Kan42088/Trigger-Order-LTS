@@ -2,6 +2,9 @@
 
 *Note: plugin là file zip trong file được tải về
 
+*Bản 1.4.2:
+- Sửa lỗi mail gửi đi chứa sản phẩm có link tải 'cutt.ly', 'bit.ly', 'bitly.com.vn, 'drive.google.com' .
+
 *Bản 1.4.1:
 - Sửa lỗi gửi mail chứa sản phẩm có link tải trắng cho khách hàng đối với một số website.
 
