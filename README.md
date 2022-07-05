@@ -2,7 +2,7 @@
 
 *Note: plugin là file zip trong file được tải về
 
-*Soon ~~Bản 1.4.1:
+*Bản 1.4.1:
 - Sửa lỗi gửi mail chứ sản phẩm có link tải trắng cho khách hàng đối với những website không dùng quy trình cào etsy.
 
 *Bản 1.4.0:
