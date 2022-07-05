@@ -1,7 +1,8 @@
 # TriggerOrder
 
 *Note: plugin là file zip trong file được tải về
-*Bản 1.3.5:
+
+*Bản 1.4.0:
 - Có thông báo trong order lí do các sản phẩm được đẩy lên trello.
 - Có thông báo trong order email cho khách khi các sản phẩm đã đủ link
 
