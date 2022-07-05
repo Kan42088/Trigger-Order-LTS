@@ -3,7 +3,7 @@
 *Note: plugin là file zip trong file được tải về
 
 *Bản 1.4.1:
-- Sửa lỗi gửi mail chứ sản phẩm có link tải trắng cho khách hàng đối với một số website.
+- Sửa lỗi gửi mail chứa sản phẩm có link tải trắng cho khách hàng đối với một số website.
 
 *Bản 1.4.0:
 - Có thông báo trong order lí do các sản phẩm được đẩy lên trello.
