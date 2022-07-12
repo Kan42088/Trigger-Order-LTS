@@ -4,6 +4,7 @@
 - Plugin là file zip trong file được tải về.
 - Chú ý khi chỉnh sửa lại sản phẩm, hành động "Edit" sẽ kích hoạt chế độ tự động gửi mail cho khách hàng nếu các sản phẩm trong đơn hàng có đủ link tải.
 - Bản ổn định hiện tại: v1.4.2
+
 *Bản 1.4.2:
 - Sửa lỗi mail gửi đi chứa sản phẩm có link tải 'cutt.ly', 'bit.ly', 'bitly.com.vn, 'drive.google.com' .
 
