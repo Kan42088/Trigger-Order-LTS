@@ -5,6 +5,10 @@
 - Chú ý khi chỉnh sửa lại sản phẩm, hành động "Edit" sẽ kích hoạt chế độ tự động gửi mail cho khách hàng nếu các sản phẩm trong đơn hàng có đủ link tải.
 - Bản ổn định hiện tại: v1.4.2
 
+*Bản 1.5.0:
+- Điều chỉnh lại nhãn trello thành tên trang web và mô tả thành id của sản phẩm tránh lỗi đầy nhãn trello (giới hạn 1000 nhãn trên 1 bảng).
+- Thêm mục chọn nhãn trello cho trang web trong phần cài đặt.
+
 *Bản 1.4.2:
 - Sửa lỗi mail gửi đi chứa sản phẩm có link tải 'cutt.ly', 'bit.ly', 'bitly.com.vn, 'drive.google.com' .
 
