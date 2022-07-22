@@ -3,7 +3,7 @@
 *Note: 
 - Plugin là file zip trong file được tải về.
 - Chú ý khi chỉnh sửa lại sản phẩm, hành động "Edit" sẽ kích hoạt chế độ tự động gửi mail cho khách hàng nếu các sản phẩm trong đơn hàng có đủ link tải.
-- Bản ổn định hiện tại: v1.4.2
+- Bản ổn định hiện tại: v1.5.0
 
 *Bản 1.5.0:
 - Điều chỉnh lại nhãn trello thành tên trang web và mô tả thành id của sản phẩm tránh lỗi đầy nhãn trello (giới hạn 1000 nhãn trên 1 bảng).
